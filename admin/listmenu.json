@@ -1,0 +1,23 @@
+{
+ "simple": ["donasi","sticker","owner","afk","toimg","script","confes","report"],
+ "group": ["antilink","welcome","revoke","linkgrup","locked","unlocked","opengroup","closegroup","setdeks","setsubject","demote","promote","add","kick","kicktime","delete"],
+ "owner": ["updatestatus","setnamabot","getpp","block","unblock","creategroup","plusstar","minusstar","dellimage","dellvideo","dellsticker","dellaudio"],
+ "textpro1": ["technology","cuttext","neonlight","thundertext","transformer","sketchtext","lighttext","giraffetext","glasstext","signtext","juicetext","typography","potterytext","comictext","ruststyle"],
+ "textpro2": ["steeltext","metalgold","metalgalaxy","rosegold","metalonline","logoonline","stonetext","styletiktok","vintage","graffititext","texteffect","layeredtext","screentext","summertext"],
+ "gombal": ["baperin1","baperin2","baperin3","baperin4","baperin5","baperin6","baperin7","baperin8","baperin9","baperin10"],
+ "stress": ["wangy","sherk","simp","nenen"],
+ "memegen": ["smeme1","smeme2","smeme3"],
+ "download": ["playmp3","playmp4","ytvideo","ytmp3","tiktokaudio","tiktokvideo"],
+ "storage": ["addimage","addvideo","addsticker","addaudio","getimage","getvideo","getsticker","getaudio","listimage","listvideo","liststicker","listaudio"],
+ "search": ["pinterest","wallpaper","igstalk","artinama","cuaca","kusonime","carigrup","happymod"],
+ "creatif": ["imagesketch","shit","burn","blur","greyscale","pixelate","removebg","beautiful","trash","jail","wanted","rip","gay","invert"],
+ "creatifme": ["imagesketchme","shitme","burnme","blurme","greyscaleme","pixelateme","removebgme","beautifulme","trashme","jailme","wantedme","ripme","gayme","invertme"],
+ "creatiftag": ["imagesketchtag","shittag","burntag","blurtag","greyscaletag","pixelatetag","removebgtag","beautifultag","trashtag","jailtag","wantedtag","riptag","gaytag","inverttag"],
+ "ttp": ["ttpwhite","ttpyellow","ttpblue","ttpred","ttpgreen","ttpblack","ttpbrown","ttpteal","ttpsilver","ttppurple","ttpgray","ttporange","ttpmaroon","ttpaquamarine","ttpcoral","ttpfuchsia","ttpwheat","ttplime","ttpcrimson","ttpkhaki","ttpmagenta","ttpplum","ttpolive","ttpcyan"],
+ "ranime": ["waifu","neko","shinobu","megumin","bully","cuddle","hug","cry","awoo","kiss","lick","pat","smug","bonk","yeet","smile","blush","wave","highfive","handhold","nom","bite","glomp","slap","kill","kick","happy","wink","poke","dance","cringe"],
+ "emostick": ["ejek","hai","jatuhcinta","jempol","ketawa","love","nangis","sakithati","terimakasih"],
+ "tagrandom": ["cantik","ganteng","jelek","burik","ireng","kaya","miskin","babi","monyet","bego","beban","pintar","bodoh","pendek","tinggi","kurus","gemuk"],
+ "listaudio": ["audio1","audio2","audio3","audio4","audio5","audio6","audio7","audio8","audio9","audio10","audio11","audio12","audio13","audio14","audio15","audio16","audio17","audio18","audio19","audio20"],
+ "userbot": ["cekuser","tophit","topstar"],
+ "games": ["asahotak","susunkata","tebakkata","tebaktebakan","tebakbendera","tebakkimia","tekateki","siapaaku","tebakkalimat","tebaklirik"]
+}
