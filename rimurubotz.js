@@ -550,7 +550,7 @@ download("sticker", "toimgg").then(x => { sendMedia("image", "./media/toimgg.web
 break
 case 'script': 
 if (cekUser("id", sender) == null) return Notdaftar()
-reply("https://youtube.com/channel/UCeQaKIQQhDNHMOq_odQh5Sw")
+reply("https://youtube.com/channel/UCWypTAqhYCI45waiZg9T3Lg")
 break
 case 'confes': case 'menfes': case 'confess': case 'menfess':
 if (cekUser("id", sender) == null) return Notdaftar()
