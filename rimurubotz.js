@@ -137,7 +137,7 @@ caption: `> Haloo @${sender.split("@")[0]}!!
 ┃• *Ban* : ${cekUser("ban", sender)}
 ┃• *Premium* : ${cekUser("premium", sender)}
 ╰━─━─━─━─━─━─━─•
-• *Catatan* : Untuk Informasi bot ini kamu bisa kunjungi website ini! https://md-devs.xyz/botz`,
+• *Catatan* : Untuk Informasi bot ini kamu bisa kunjungi youtube  ini! https://youtube.com/channel/UCWypTAqhYCI45waiZg9T3Lg`,
 buttons: [
 {buttonId: prefix + 'listmenu', buttonText: {displayText: 'LISTMENU-BOT'}, type: 1}
 ], headerType: 4
@@ -164,7 +164,7 @@ mentions: [sender],
 sections: [{ rows: [
 {title: "IG : " + ig, rowId: prefix + "xx"},
 {title: "FB : " + fb, rowId: prefix + "xx"},
-{title: "TT : " + tt, rowId: prefix + "xx"},
+{title: "yt : " + tt, rowId: prefix + "xx"},
 {title: "WA : " + owner, rowId: prefix + "xx"}
 ]}]},{quoted:nay1})
 var nyz = await fetchJson("https://md-devs.xyz/versi")
